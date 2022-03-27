@@ -1,0 +1,29 @@
+{
+  "name": "env_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ise540",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "husky": "^7.0.4",
+    "stylelint": "^14.6.1",
+    "stylelint-config-standard": "^25.0.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "stylus": "^0.57.0",
+    "svgo": "^2.8.0"
+  }
+}
